@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi nerds 👋
 
-<!--
-**Wit3/wit3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Salvatore Scalzi, and I'm a Full Stack Developer from Parma, Italy.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at [X3Energy](https://www.x3energy.it) 
+- ⚙️ I use daily: `.php`, `.js`, `.ts`, `.py`, `.html`, `.css`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **laravel**, **livewire**, **alpinejs**,**postgres**, **tailwindcss**, **alpinejs**, **livewire**, **typescript**, **flask**
+- 📫 Reach me: [Twitter](https://twitter.com/_Wit3)
+- ⚡️ Fun fact: I'm a huge fan of Star Wars, LOTR and Matrix
